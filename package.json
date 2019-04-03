@@ -1,5 +1,5 @@
 {
-  "name": "proxy_blog_xt014_d",
+  "name": "airtable-api-wrapper",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benoror/proxy_blog_xt014_d.git"
+    "url": "git+https://github.com/matteomenapace/airtable-api-wrapper.git"
   },
-  "author": "Ben Orozco <benoror@gmail.com>",
+  "author": "Matteo Menapace <m@tteo.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/benoror/proxy_blog_xt014_d/issues"
+    "url": "https://github.com/matteomenapace/airtable-api-wrapper/issues"
   },
-  "homepage": "https://github.com/benoror/proxy_blog_xt014_d#readme",
+  "homepage": "https://github.com/matteomenapace/airtable-api-wrapper#readme",
   "dependencies": {
-    "express": "^4.14.0",
-    "http-proxy-middleware": "^0.17.1"
+    "express": "^4.16.4",
+    "http-proxy-middleware": "^0.19.1"
   }
 }
