@@ -11,11 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/matteomenapace/airtable-api-wrapper.git"
   },
-  "author": "Matteo Menapace <m@tteo.me>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/matteomenapace/airtable-api-wrapper/issues"
-  },
   "homepage": "https://github.com/matteomenapace/airtable-api-wrapper#readme",
   "dependencies": {
     "express": "^4.16.4",
